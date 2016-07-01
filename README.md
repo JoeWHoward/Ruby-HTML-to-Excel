@@ -21,8 +21,7 @@ Note:  Install gems using the console, do `gem install nokogiri` and `gem instal
 
 ## Credits
 
-<a href="https://rubygems.org/gems/nokogiri">Nokogiri gem</a>
+<a href="https://rubygems.org/gems/nokogiri">Nokogiri gem</a><br>
 <a href="https://rubygems.org/gems/writeexcel">WriteExcel gem</a>
 </content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
