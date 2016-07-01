@@ -2,8 +2,6 @@
 #JoeWHoward on GitHub
 require 'rubygems'
 require 'nokogiri'
-require 'open-uri'
-require 'net/https'
 require 'writeexcel'
 
 workbook = WriteExcel.new('ruby.xls')
